@@ -1,0 +1,6 @@
+{
+  "name": "Bhagat Singh Library",
+  "description": "Smart seat management, daily attendance logs, library holder administration & directory controls for Bhagat Singh Library Malkhera.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
